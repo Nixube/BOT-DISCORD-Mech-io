@@ -26,10 +26,7 @@ client.on('messageCreate', message => {
         message.reply(`🎲 Has sacado un ${dado}`);
     } else if (content === '!si') {
         message.reply('¡No!');
-    } else if (content === '!gay') {
-        const porcentaje = Math.floor(Math.random() * 101);
-        message.reply(`🏳️‍🌈 Eres un ${porcentaje}% gay`);
-    } else if (content === '!comandos') {
+    }  else if (content === '!comandos') {
         message.reply('Comandos disponibles:\n!hola - Saluda al bot\n!webs - Muestra enlaces útiles\n!dado - Lanza un dado de 20 caras\n!si - ¿Si?\n!gay - ¿Esto es ciencia pura?\n!comandos - Muestra esta lista de comandos\n!pitilin - Muestra tu enorme trompa');
     } else if (content === '!pitilin') {
         // Generar un número aleatorio entre 1 y 22 (en cm) como entero
