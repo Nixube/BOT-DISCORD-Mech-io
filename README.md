@@ -14,7 +14,6 @@ Este bot está diseñado para añadir **diversión** y **utilidad** a tu servido
 
 ### 🎭 Diversión y entretenimiento  
 - **Interacción básica** (`!hola`, `!si`) - Para responder con humor.  
-- **Test de porcentaje random** (`!gay`) - Un resultado aleatorio para reírse.  
 - **Medidor de "tamaño"** (`!pitilin`) - Genera una longitud aleatoria con una barra gráfica.  
 
 ### 🌐 Recursos útiles  
