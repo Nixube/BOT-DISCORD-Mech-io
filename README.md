@@ -21,6 +21,5 @@ Este bot está diseñado para añadir **diversión** y **utilidad** a tu servido
 - **Lista de webs** (`!webs`) - Acceso rápido a páginas importantes del desarrollador.  
 - **Lista de comandos** (`!comandos`) - Muestra todas las funciones del bot.  
 
-Este bot es ideal para servidores que buscan un toque de **humor** y un **complemento para sesiones de rol**. Con futuras mejoras, puede incluir más opciones de **dados avanzados, eventos de RPG y memes aleatorios**. 🚀  
+Este bot es ideal para servidores que buscan un toque de **humor** y un **complemento para sesiones de rol**. 🚀  
 
-💡 *¿Quieres más funciones? Sugiere nuevas ideas para seguir mejorándolo.*  
